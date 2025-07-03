@@ -412,7 +412,6 @@ h5, h6, .h5, .h6, .fw-normal {
   display: flex;
   align-items: center;
 }
-
 @media (max-width: 768px) {
   .page-header {
     min-height: 250px;
